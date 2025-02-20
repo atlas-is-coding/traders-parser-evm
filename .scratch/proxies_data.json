@@ -1,0 +1,26 @@
+{
+  "http://user224379:h7a290@185.193.166.63:5204": {
+    "url": "http://user224379:h7a290@185.193.166.63:5204",
+    "is_working": true,
+    "fails_count": 1,
+    "last_used": 1740051412.934422,
+    "cooldown_until": null,
+    "requests_count": 0
+  },
+  "http://user224379:h7a290@185.193.166.229:6077": {
+    "url": "http://user224379:h7a290@185.193.166.229:6077",
+    "is_working": true,
+    "fails_count": 1,
+    "last_used": 1740051412.934425,
+    "cooldown_until": null,
+    "requests_count": 0
+  },
+  "http://user224379:h7a290@46.37.109.175:1754": {
+    "url": "http://user224379:h7a290@46.37.109.175:1754",
+    "is_working": true,
+    "fails_count": 1,
+    "last_used": 1740051412.934426,
+    "cooldown_until": null,
+    "requests_count": 0
+  }
+}

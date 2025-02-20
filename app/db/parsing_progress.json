@@ -1,0 +1,12 @@
+{
+    "progress": {
+        "0x45C1E431e255810824a508Dcb4fF1F82c8a4662E": {
+            "contract_address": "0x45C1E431e255810824a508Dcb4fF1F82c8a4662E",
+            "current_page": 11,
+            "total_pages": null,
+            "last_processed_at": "2025-02-20T21:35:06.595427",
+            "status": "in_progress",
+            "error_message": null
+        }
+    }
+}
